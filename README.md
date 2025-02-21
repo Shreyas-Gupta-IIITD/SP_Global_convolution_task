@@ -9,4 +9,4 @@ Note: can only use `Numpy`, refer the implementation of Scipy convolution operat
 
 
 ### Proposed Solution :
-Refer the code provided in above file
+Refer the code provided in above file.
