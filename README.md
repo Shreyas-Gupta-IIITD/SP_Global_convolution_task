@@ -10,3 +10,6 @@ Note: can only use `Numpy`, refer the implementation of Scipy convolution operat
 
 ### Proposed Solution :
 Refer the code provided in above file.
+
+Why use np.as_strided ?
+It enables us to get a new view of an existing array without copying data so suitable for sliding window operations like convolution without explicitly using any loops.
